@@ -1,6 +1,6 @@
 📌 Descrizione del progetto
 
-Questo progetto consiste in un’analisi esplorativa dei dati (EDA) su un dataset relativo ai giochi disponibili su Steam. L’obiettivo è esplorare, pulire e analizzare i dati per individuare pattern, trend e relazioni significative tra le variabili, supportando l’interpretazione tramite visualizzazioni efficaci.
+Questo progetto consiste in un’analisi esplorativa dei dati (EDA) su un dataset relativo ai giochi disponibili su Steam. L’obiettivo è esplorare, pulire e analizzare i dati per individuare pattern, trend e relazioni significative tra le variabili, supportando l’interpretazione tramite visualizzazioni efficaci. Il progetto è stato presentato durante l'esame di Analisi dei Dati per il Machine Learning e le reti neurali (8CFU/MAT-09).
 
 🛠️ Tecnologie e librerie utilizzate
 
