@@ -38,6 +38,6 @@ Comprendere le dinamiche principali del catalogo Steam
 
 notebook.ipynb → analisi esplorativa e visualizzazioni
 
-data/ → dataset utilizzato
+a_steam_data_2021_2025.csv → dataset utilizzato
 
 README.md → descrizione del progetto
