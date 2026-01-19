@@ -36,7 +36,7 @@ Comprendere le dinamiche principali del catalogo Steam
 
 📂 Struttura del repository
 
-notebook.ipynb → analisi esplorativa e visualizzazioni
+progettoPandas.ipynb → analisi esplorativa e visualizzazioni
 
 a_steam_data_2021_2025.csv → dataset utilizzato
 
